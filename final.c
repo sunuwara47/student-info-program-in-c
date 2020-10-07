@@ -35,6 +35,8 @@ void main() {
     printf("\t|                                                      |\n");
     printf("\t|                                                      |\n");
     printf("\t|                                                      |\n");
+    printf("\t|                                                      |\n");
+    printf("\t|                                                      |\n");
     printf("\t|   	        DEVELOPED BY NISHANT69                 |\n");
     printf("\t|______________________________________________________|\n");
     sleep(1);
